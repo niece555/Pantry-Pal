@@ -1,0 +1,23 @@
+# Python cache folders
+__pycache__/
+*.pyc
+
+# Backup files
+*.bak
+
+# Editor files
+*.swp
+
+# macOS junk files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
+# Optional: ignore your pantry data file
+pantry.json
+
+# Optional: ignore large video files
+*.mp4
+*.mov
