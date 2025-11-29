@@ -49,7 +49,7 @@ python pantrypal.py use rice 0.5
 
 ## Video Demonstration
 
-Insert video link here.
+(https://youtu.be/bU-HMdhfw9k)
 
 ## Author
 
